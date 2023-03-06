@@ -76,7 +76,7 @@ const App = () => {
           <Route
             path={`${process.env.PUBLIC_URL + "/"}`}
             exact
-            component={AboutUs}
+            component={portfolioThreeColumn}
           />
           <Route
             path={`${process.env.PUBLIC_URL + "/business-consulting"}`}
