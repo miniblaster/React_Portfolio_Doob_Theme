@@ -34,14 +34,14 @@ const HeaderOne = ({btnStyle, HeaderSTyle}) => {
                         </div>
                         <div className="col-lg-9 col-md-6 col-8 position-static">
                             <div className="header-right">
-                                {/* <nav className="mainmenu-nav d-none d-lg-block">
+                                <nav className="mainmenu-nav d-none d-lg-block">
                                     <Nav />
                                 </nav>
                                 <div className="mobile-menu-bar ml--5 d-block d-lg-none">
                                     <div className="hamberger">
                                         <span className="hamberger-button" onClick={onCanvasHandler}><FiMenu /></span>
                                     </div>
-                                </div> */}
+                                </div>
                                 <Darkmode />
                             </div>  
                         </div>

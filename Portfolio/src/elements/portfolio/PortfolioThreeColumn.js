@@ -11,6 +11,7 @@ import HeaderOne from "../../common/header/HeaderOne";
 import FooterFour from "../../common/footer/FooterFour";
 import ContactOne from "../contact/ContactOne";
 import AboutSix from "../about/AboutSix";
+import { Link } from "react-router-dom";
 
 const PortfolioThreeColumn = () => {
   return (
@@ -52,7 +53,7 @@ const PortfolioThreeColumn = () => {
         <div className="main-content">
           <div className="rwt-portfolio-area rn-section-gap">
             <div className="container">
-              <div className="row">
+              <div className="row" id="about">
                 <div className="col-lg-6">
                   <div className="content">
                     <h3 className="title">
@@ -69,7 +70,7 @@ const PortfolioThreeColumn = () => {
 
               <AboutSix />
 
-              <div className="row">
+              <div className="row" id="portfolio">
                 <div className="col-lg-12">
                   <SectionTitle
                     textAlign="text-center"
@@ -107,7 +108,7 @@ const PortfolioThreeColumn = () => {
                 })}
               </div>
 
-              <div className="row mt--50">
+              <div className="row mt--50" id="contactForm">
                 <div className="col-lg-12 mb--40">
                   <SectionTitle
                     textAlign="text-center"

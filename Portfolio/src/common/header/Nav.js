@@ -1,5 +1,5 @@
 import React from 'react';
-import {Link} from "react-router-dom";
+import {Link, NavLink} from "react-router-dom";
 
 const Nav = () => {
     return (
@@ -27,7 +27,7 @@ const Nav = () => {
                 </ul>
             </li> */}
             
-            <li><Link to="/about-us">About</Link></li>
+            <li><a href="/#about">About</a></li>
 
             {/* <li className="with-megamenu"><Link to="#">Elements</Link>
                 <div className="rn-megamenu">
@@ -93,14 +93,14 @@ const Nav = () => {
             {/* <li className="has-droupdown"><Link to="#">Portfolio</Link>
                 <ul className="submenu">
                     <li><Link to="/portfolio">Portfolio Default</Link></li> */}
-                    <li><Link to="/portfolio-three-column">Portfolio</Link></li>
+                    <li><a href="/#portfolio">Portfolio</a></li>
                     {/* <li><Link to="/portfolio-full-width">Portfolio Full Width</Link></li>
                     <li><Link to="/portfolio-grid-layout">Portfolio Grid Layout</Link></li>
                     <li><Link to="/portfolio-box-layout">Portfolio Box Layout</Link></li>
                 </ul>
             </li> */}
 
-            <li className="has-droupdown"><Link to="/contact">Contact</Link></li>
+            <li className="has-droupdown"><a href="/#contactForm">Contact</a></li>
         </ul>
     )
 }

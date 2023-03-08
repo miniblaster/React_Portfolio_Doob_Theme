@@ -12,90 +12,101 @@
   },
   {
     "id": 2,
-    "company": "Nelnet student loan servicer",
-    "role": "Sr Full stack Developer",
-    "date": "September 2022 - to this day",
+    "company": "Progress Residential for HireRising",
+    "role": "Freelance Sr Full stack Developer",
+    "date": "February 2022 – February 2023",
     "image": "/showcase.jpg",
     "responsibilities": [
-      "Currently working on this fintech project as a Sr Fullstack Developer, creating components from scratch with  Angular typescript for the front end and integrating them with the many micro services the company",
-      "has, we use nodeTS for the backend, using lambdas for the endpoints and creating models and entities for the database, the micro services architecture requires the developers to integrate different API’s in order to create the endpoints needed for the API calls, we also use AWS, PostgreSQL, and do database migration for new columns with NodeTS, we work under the agile methodologies(SCRUM) and we do all the ceremonies from stand up to sprint planning up to retro to find the gaps and correct them immediately, on this project I’ve been working more as backend developer but I had the chance to create a new section for credit reporting recently and work on the front end."
+      "I was working on this real state project as a Freelancer , Sr Fullstack Developer, creating components from scratch with Zeplin on StoryBook with React typescript for the front end and integrating them in the nextJS app, and nodeTS for the backend, using lambdas for the endpoints and creating models and entities for the database documentation. I give technical support to QA when things get a bit high level and they need to test API’s, swagger documentation or even CORS issues, I’m basically involved in all cycles of software development on my projects, we cultivate respect and collaboration to reach our sprint projections, quality comes first and we definitely test our components with jest, then we must pass the pipeline where we use sonar cloud with a minimum of 80% of test coverage and percy from browserstack to approve ui builds on the code reviews, so testing is very important for this project, I have basically worked on everything on this project, except maybe deploying to UAT, all sprint ceremonies are part of our development cycles.",
+      "Currently working with GraphQL , AWS App sync and the GraphQL AWS playground, to build and integrate new API’s , and integrating them on the front end with react typescript , GraphQL querys ."
     ]
   },
   {
     "id": 3,
-    "company": "Nelnet student loan servicer",
-    "role": "Sr Full stack Developer",
-    "date": "September 2022 - to this day",
+    "company": "Stateside Sephora E-commerce",
+    "role": "Sr Full stack Lead Developer",
+    "date": "February 2022 – to Jun",
     "image": "/showcase.jpg",
     "responsibilities": [
-      "Currently working on this fintech project as a Sr Fullstack Developer, creating components from scratch with  Angular typescript for the front end and integrating them with the many micro services the company",
-      "has, we use nodeTS for the backend, using lambdas for the endpoints and creating models and entities for the database, the micro services architecture requires the developers to integrate different API’s in order to create the endpoints needed for the API calls, we also use AWS, PostgreSQL, and do database migration for new columns with NodeTS, we work under the agile methodologies(SCRUM) and we do all the ceremonies from stand up to sprint planning up to retro to find the gaps and correct them immediately, on this project I’ve been working more as backend developer but I had the chance to create a new section for credit reporting recently and work on the front end."
+      "Full stack Lead Developer for the Tokenizers team and Architect specialist in charge of Encrypting Credit Card Data POC working with technologies such as, NodeJS ReactJS, Redux, I was in charge of implementing in NodeJS the encryption for the credit card data after the checkout for Sephora’s ecommerce, I had to work with several API’s and different environments to achieve this, working with ReactJS components and Redux for the global state with Sephora I was more of a backend developer, also had the chance to collaborate with other teams, working on cookies implementation, displaying products and fixing bugs to improve code quality and technical debts,  as a lead dev I have an extended experience on e-commerce for several years from single items to wholesale, all kinds of models of business."
     ]
   },
   {
     "id": 4,
-    "company": "Nelnet student loan servicer",
-    "role": "Sr Full stack Developer",
+    "company": "Stateside Sephora E-commerce",
+    "role": "Sr Full stack Lead Developer ",
     "date": "September 2022 - to this day",
     "image": "/showcase.jpg",
     "responsibilities": [
-      "Currently working on this fintech project as a Sr Fullstack Developer, creating components from scratch with  Angular typescript for the front end and integrating them with the many micro services the company",
-      "has, we use nodeTS for the backend, using lambdas for the endpoints and creating models and entities for the database, the micro services architecture requires the developers to integrate different API’s in order to create the endpoints needed for the API calls, we also use AWS, PostgreSQL, and do database migration for new columns with NodeTS, we work under the agile methodologies(SCRUM) and we do all the ceremonies from stand up to sprint planning up to retro to find the gaps and correct them immediately, on this project I’ve been working more as backend developer but I had the chance to create a new section for credit reporting recently and work on the front end."
+      "This project is a freelance project I did for an adult entertainment company in Canada with 2 other devs that work with me on freelance projects, essentially a live streaming video website with an API, a dashboard to manage the website and the productions side which is the one that has all the video and content: Payment Processing with Paypal ,Stripe, debit and credit cards and crypto payments with Coinbase CommerceLive streaming with Cloudflare API",
+      "Age verification",
+      "Shopping Cart",
+      "User Access Control , account creation, profiles,signin/up,membership levels API Repo documented with Swagger Front End Repo that uses Redux, NextJS/ReactJs,",
+      "JWT to handle authentication",
+      "Auth0 for the login",
+      "Redux",
+      "MongoDB",
+      "Mongoose",
+      "Newsletter",
+      "LazyLoading",
+      "NodeJS CI/CD",
+      "Express",
+      "Jest",
+      "Dockers"
     ]
   },
   {
     "id": 5,
-    "company": "Nelnet student loan servicer",
-    "role": "Sr Full stack Developer",
-    "date": "September 2022 - to this day",
+    "company": "EX2 Outcoding Costa Rica ",
+    "role": "Sr. Front End Developer, Sr React Typescript developer ",
+    "date": "February 2021 – February 2022",
     "image": "/showcase.jpg",
     "responsibilities": [
-      "Currently working on this fintech project as a Sr Fullstack Developer, creating components from scratch with  Angular typescript for the front end and integrating them with the many micro services the company",
-      "has, we use nodeTS for the backend, using lambdas for the endpoints and creating models and entities for the database, the micro services architecture requires the developers to integrate different API’s in order to create the endpoints needed for the API calls, we also use AWS, PostgreSQL, and do database migration for new columns with NodeTS, we work under the agile methodologies(SCRUM) and we do all the ceremonies from stand up to sprint planning up to retro to find the gaps and correct them immediately, on this project I’ve been working more as backend developer but I had the chance to create a new section for credit reporting recently and work on the front end."
+      "I started working for Urbint account this is a gas company that has a hybrid application to handle requests from clients and to organize the workforce, using technologies such as: React Typescript, Ionic for hybrid native implementations, styled components, Also adding some efforts on the backend part using Python 3 with Django Rest Framework to create Schemas, Selenium Python for tests, creating new components with React Typescript using Ionic framework MDI in order to create Hybrid components and also that those components can work on any browser or device, the environments are implemented on docker containers, so working and running docker cli and py3 cli are part of my daily basis.",
+      "Now working for SSB as a Sr Software Developer this a company that hanldes customers for sports promotions, seasons and products for specific meta public, working daily with 3 different repositories, one has the API with: NodeJS, Sequelize, redis, JWT, Launch Darkly, Express.",
+      "The other repo is the front end and uses: Angular moving to React,so there are mixed components, Mobx to handle several stores, we are currently migrating this front end repo to React typescript and ReactJS version 17, Auth0 with nodejs and Microsoft AD, Currently replacing MobX for Redux."
     ]
   },
   {
     "id": 6,
-    "company": "Nelnet student loan servicer",
-    "role": "Sr Full stack Developer",
-    "date": "September 2022 - to this day",
+    "company": "Scotia Bank Costa Rica",
+    "role": "Sr. Web Developer, Sr React developer ",
+    "date": "October 2019 – December 31 2020",
     "image": "/showcase.jpg",
     "responsibilities": [
-      "Currently working on this fintech project as a Sr Fullstack Developer, creating components from scratch with  Angular typescript for the front end and integrating them with the many micro services the company",
-      "has, we use nodeTS for the backend, using lambdas for the endpoints and creating models and entities for the database, the micro services architecture requires the developers to integrate different API’s in order to create the endpoints needed for the API calls, we also use AWS, PostgreSQL, and do database migration for new columns with NodeTS, we work under the agile methodologies(SCRUM) and we do all the ceremonies from stand up to sprint planning up to retro to find the gaps and correct them immediately, on this project I’ve been working more as backend developer but I had the chance to create a new section for credit reporting recently and work on the front end."
+      "Working for Scotia Bank Costa Rica, using technologies such as React.js plain css, and components and also giving some help on the backend part using Java thymeleaf, MySQL and ASYNC with JavaScript."
     ]
   },
   {
     "id": 7,
-    "company": "Nelnet student loan servicer",
-    "role": "Sr Full stack Developer",
-    "date": "September 2022 - to this day",
+    "company": "Gorilla Logic ",
+    "role": "Sr. React Developer, Node developer ",
+    "date": "JUNE 2019 – OCTOBER 2019, 100% REMOTE",
     "image": "/showcase.jpg",
     "responsibilities": [
-      "Currently working on this fintech project as a Sr Fullstack Developer, creating components from scratch with  Angular typescript for the front end and integrating them with the many micro services the company",
-      "has, we use nodeTS for the backend, using lambdas for the endpoints and creating models and entities for the database, the micro services architecture requires the developers to integrate different API’s in order to create the endpoints needed for the API calls, we also use AWS, PostgreSQL, and do database migration for new columns with NodeTS, we work under the agile methodologies(SCRUM) and we do all the ceremonies from stand up to sprint planning up to retro to find the gaps and correct them immediately, on this project I’ve been working more as backend developer but I had the chance to create a new section for credit reporting recently and work on the front end."
+      "Currently working on the NBC video streaming app, using Node.js, ES6(Javascript 2017), React.js 16, Redux, React Sagas for handling the different side effects to consume Api."
     ]
   },
   {
     "id": 8,
-    "company": "Nelnet student loan servicer",
-    "role": "Sr Full stack Developer",
-    "date": "September 2022 - to this day",
+    "company": "3Share",
+    "role": "Sr. AEM Web Developer ",
+    "date": "JAN 2019 – MAY 2019, 100% REMOTE",
     "image": "/showcase.jpg",
     "responsibilities": [
-      "Currently working on this fintech project as a Sr Fullstack Developer, creating components from scratch with  Angular typescript for the front end and integrating them with the many micro services the company",
-      "has, we use nodeTS for the backend, using lambdas for the endpoints and creating models and entities for the database, the micro services architecture requires the developers to integrate different API’s in order to create the endpoints needed for the API calls, we also use AWS, PostgreSQL, and do database migration for new columns with NodeTS, we work under the agile methodologies(SCRUM) and we do all the ceremonies from stand up to sprint planning up to retro to find the gaps and correct them immediately, on this project I’ve been working more as backend developer but I had the chance to create a new section for credit reporting recently and work on the front end."
+      "Working for 3Share on several AEM adobe projects, just finished a project with Sony Play ReactJS, Redux, that was pretty much the front end along with Sass for the styling and of course we needed a task manager to Gulp was the one we used and then Yarn to run the React.js."
     ]
   },
   {
     "id": 9,
-    "company": "Nelnet student loan servicer",
-    "role": "Sr Full stack Developer",
-    "date": "September 2022 - to this day",
+    "company": "Hangar Interactive ",
+    "role": "Front End Developer",
+    "date": "MAY 2018 – SEP 2018, HEREDIA, COSTA RICA ",
     "image": "/showcase.jpg",
     "responsibilities": [
-      "Currently working on this fintech project as a Sr Fullstack Developer, creating components from scratch with  Angular typescript for the front end and integrating them with the many micro services the company",
-      "has, we use nodeTS for the backend, using lambdas for the endpoints and creating models and entities for the database, the micro services architecture requires the developers to integrate different API’s in order to create the endpoints needed for the API calls, we also use AWS, PostgreSQL, and do database migration for new columns with NodeTS, we work under the agile methodologies(SCRUM) and we do all the ceremonies from stand up to sprint planning up to retro to find the gaps and correct them immediately, on this project I’ve been working more as backend developer but I had the chance to create a new section for credit reporting recently and work on the front end."
+      "Working for two different accounts Omnicom Health Group and Nissan & Infinity account.",
+      "On OHG I was in charge Front End tasks, using the current Front End technologies such as javascript(Reactjs), task managers such as webpack, gulp and grunt, html5, nodejs, preprocessors such as less and sass, etc.",
+      "On the other hand, for Nissan & Infiniti, I was in charge of managing content and also creating new components for promotions and campaigns for Nissan USA and Latam, AEM Adobe Experience Manager was the CMS used and the technologies were pure JavaScript and html, with a little bit of Java for the creation of dialogues, SQL, API Restful."
     ]
   }
 ]
